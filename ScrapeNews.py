@@ -10,7 +10,7 @@ import json
 
 base_url = "https://economictimes.indiatimes.com"
 
-def extract_news_text(link):
+'''def extract_news_text(link):
     news_list = []
     try:
         page = request.urlopen(link)
@@ -24,8 +24,9 @@ def extract_news_text(link):
                     news_list.append(n.text.strip())
     except Exception as e:
         print(f"Failed to extract news from {link}: {e}")
-    return news_list
-
+    return news_list'''
+    
+#Since it loads dynamically using selenium to extract
 def extract_news(month, year, max_days=3):
     driver = webdriver.Chrome()
     news_by_date = {}
@@ -65,7 +66,7 @@ def get_month_urls(year):
     return months
 
 
-years = [2023,2022,2021]
+years = [2023,2022,2021,2020,2019,2018] #years to consider for financial news
 
 
 
