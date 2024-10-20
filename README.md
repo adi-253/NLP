@@ -10,3 +10,4 @@ Aspect-Based Sentiment Analysis (ABSA): Extract sentiment on various aspects (e.
 Stock Price Prediction: Use both numerical and textual features to predict stock price movements.
 
 The folder financial news contains the dataset we are using for the project.
+This is the overleaf link of the project report :https://www.overleaf.com/read/nckkjzsvtnvq#a0a5f0
