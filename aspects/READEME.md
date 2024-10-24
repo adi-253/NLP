@@ -10,7 +10,7 @@ This folder  contains two Jupyter notebooks for performing sentiment analysis an
 - `aspect-extraction.ipynb`: This notebook focuses on aspect-based labeling, where aspects (keywords) in the news articles are extracted, categorized, and their  sentiment scores are calcuated.
 
 
-##NOTE- It is ideal to run those two notebooks in kaggle. The links have been given in those two files.
-## Notebooks Overview
+## NOTE- It is ideal to run those two notebooks in kaggle. The links have been given in those two files.
+
 
 
