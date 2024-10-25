@@ -12,7 +12,7 @@ Aspect-Based Stock Movement Prediction is a machine learning project that aims t
 5. The cleaned data is also passed to the numerical encoding (specific working explained in the code notebook) which gives the numerical encoding for the text \
 6. Results for each encoding is showed in the same respective notebook
 7. the work on contextual encoder is still going on and it will be updated asap
-![Block diagram ](NLP.png,"hello")
+![Block diagram ](NLP.png)
 ## Key Features
 Aspect-Based Sentiment Analysis (ABSA): Extract sentiment on various aspects (e.g., management, market trends) from financial news and reports.
 Stock Price Prediction: Use both numerical and textual features to predict stock price movements.
