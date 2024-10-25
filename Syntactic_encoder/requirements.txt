@@ -1,5 +1,8 @@
-numpy==2.1.2
-pandas==2.2.3
-scikit_learn==1.2.2
-spacy==3.8.2
-torch==2.4.0+cpu
+pandas==1.5.3
+nltk==3.7
+spacy==3.4.0
+torch==1.13.0
+transformers==4.20.1
+regex==2023.8.8  # Optional: enhanced regex module
+python -m nltk.downloader stopwords
+python -m spacy download en_core_web_sm
